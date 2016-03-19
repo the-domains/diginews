@@ -4,8 +4,15 @@
         <description><![CDATA[News]]></description>
         <link>https://thegrid.ai/diginews/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 13:29:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 13:32:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/diginews/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Apple Engineers say they may Quit if ordered to Unlock iPhone by #FBI http://thehackernews.com/2016/03/apple-vs-fbi.html ... #security" src="https://pbs.twimg.com/media/Cd5u3zjW4AAXypW.jpg:large">]]></description>
+            <link>https://www.twitter.com/TheHackersNews/status/711127696546385920?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet</link>
+            <guid isPermaLink="false">a17ed1ca-7e15-4369-8d84-a8eb7674b99c</guid>
+            <pubDate>Sat, 19 Mar 2016 13:32:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Key logging ]]></title>
             <description><![CDATA[<article><h1>Key logging </h1><p>A new email-based attack campaign is targeting key employees from companies in the U.S., Middle East and Asia with the goal of compromising their computers and email accounts. This type of attack is known as business email compromise (BEC) and involves attackers hijacking the email accounts of business executives or accounting employees who typically authorize financial transactions inside organizations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26688a4d1527afa4a0d3e16de9390a6de39c6f69.jpg"></article>]]></description>
