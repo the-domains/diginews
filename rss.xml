@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Diginews]]></title>
         <description><![CDATA[Diginews]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/diginews/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 11:31:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Mar 2016 11:32:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/diginews/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Looks like people want encryption.]]></title>
+            <description><![CDATA[<article><h1>Looks like people want encryption.</h1><p>Interview Secure email service ProtonMail has come out of beta and re-opened free registration to all for the first time in almost two years. Applications to join the invite-only service had been backed up almost since the day it launched, as the free encrypted mail service quickly reached its upper capacity of users and struggled to grow to meet demand.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/328dd532a09336e3241a34f19346a5342387b779.jpg"></article>]]></description>
+            <link>http://www.theregister.co.uk/2016/03/17/protonmail_launches_open_registrations_ahead_of_snoopers_charter/</link>
+            <guid isPermaLink="false">0974c861-5cf0-4d96-877a-c32afd250eba</guid>
+            <pubDate>Sat, 19 Mar 2016 11:32:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I wonder why The government would want weaker encryption?]]></title>
             <description><![CDATA[<article><h1>I wonder why The government would want weaker encryption?</h1><p>Even if the U.S. government prevails in its quest to compel Apple and other U.S. companies to give the authorities access to encrypted devices or messaging services when they have a warrant, such technology would still be widely available to terrorists and criminals, security analysts say.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d64eb5ecb076832e50469759ede22daed3a3cb5f.jpg"></article>]]></description>
