@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Diginews]]></title>
+        <description><![CDATA[Diginews]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 19 Mar 2016 11:31:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I wonder why The government would want weaker encryption?]]></title>
+            <description><![CDATA[<article><h1>I wonder why The government would want weaker encryption?</h1><p>Even if the U.S. government prevails in its quest to compel Apple and other U.S. companies to give the authorities access to encrypted devices or messaging services when they have a warrant, such technology would still be widely available to terrorists and criminals, security analysts say.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d64eb5ecb076832e50469759ede22daed3a3cb5f.jpg"></article>]]></description>
+            <link>https://www.washingtonpost.com/news/the-switch/wp/2016/03/15/why-the-government-cant-actually-stop-terrorists-from-using-encryption/</link>
+            <guid isPermaLink="false">184411e8-fa46-4bae-994e-90c4b81ed30f</guid>
+            <pubDate>Sat, 19 Mar 2016 11:31:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
