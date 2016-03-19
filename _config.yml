@@ -2,6 +2,7 @@ name: Diginews
 favicon: null
 layout_spectrum: 0.89661
 typography_spectrum: 0.38788
+title: News
 cta:
   domain: null
   bucket: null
