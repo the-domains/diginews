@@ -4,8 +4,15 @@
         <description><![CDATA[Diginews]]></description>
         <link>https://thegrid.ai/diginews/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 11:32:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 11:32:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/diginews/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hear that Appel fans.]]></title>
+            <description><![CDATA[<article><h1>Hear that Appel fans.</h1><p>We've discovered a new family of iOS malware that successfully infected non-jailbroken devices we've named "AceDeceiver". What makes AceDeceiver different from previous iOS malware is that instead of abusing enterprise certificates as some iOS malware has over the past two years, AceDeceiver manages to install itself without any enterprise certificate at all.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9087bd3d6cb0e776238c256f436116a50bd5f072.png"></article>]]></description>
+            <link>http://researchcenter.paloaltonetworks.com/2016/03/acedeceiver-first-ios-trojan-exploiting-apple-drm-design-flaws-to-infect-any-ios-device/</link>
+            <guid isPermaLink="false">03811973-1dd1-4473-aef4-4f5e25da3abb</guid>
+            <pubDate>Sat, 19 Mar 2016 11:32:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Looks like people want encryption.]]></title>
             <description><![CDATA[<article><h1>Looks like people want encryption.</h1><p>Interview Secure email service ProtonMail has come out of beta and re-opened free registration to all for the first time in almost two years. Applications to join the invite-only service had been backed up almost since the day it launched, as the free encrypted mail service quickly reached its upper capacity of users and struggled to grow to meet demand.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/328dd532a09336e3241a34f19346a5342387b779.jpg"></article>]]></description>
