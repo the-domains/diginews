@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Diginews]]></title>
-        <description><![CDATA[Diginews]]></description>
+        <title><![CDATA[News]]></title>
+        <description><![CDATA[News]]></description>
         <link>https://thegrid.ai/diginews/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 11:32:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 13:29:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/diginews/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Key logging ]]></title>
+            <description><![CDATA[<article><h1>Key logging </h1><p>A new email-based attack campaign is targeting key employees from companies in the U.S., Middle East and Asia with the goal of compromising their computers and email accounts. This type of attack is known as business email compromise (BEC) and involves attackers hijacking the email accounts of business executives or accounting employees who typically authorize financial transactions inside organizations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26688a4d1527afa4a0d3e16de9390a6de39c6f69.jpg"></article>]]></description>
+            <link>http://www.computerworld.com/article/3045540/security/keylogger-hijacks-key-business-email-accounts.html</link>
+            <guid isPermaLink="false">f6c72f0e-173a-4f9f-9acd-64abe1e245e7</guid>
+            <pubDate>Sat, 19 Mar 2016 13:28:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hear that Appel fans.]]></title>
             <description><![CDATA[<article><h1>Hear that Appel fans.</h1><p>We've discovered a new family of iOS malware that successfully infected non-jailbroken devices we've named "AceDeceiver". What makes AceDeceiver different from previous iOS malware is that instead of abusing enterprise certificates as some iOS malware has over the past two years, AceDeceiver manages to install itself without any enterprise certificate at all.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9087bd3d6cb0e776238c256f436116a50bd5f072.png"></article>]]></description>
