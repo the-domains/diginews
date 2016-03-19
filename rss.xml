@@ -4,11 +4,18 @@
         <description><![CDATA[News]]></description>
         <link>https://thegrid.ai/diginews/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 13:43:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 13:49:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/diginews/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Pwn2Own contest highlights renewed hacker focus on kernel issues]]></title>
+            <description><![CDATA[<article><h1>Pwn2Own contest highlights renewed hacker focus on kernel issues</h1><p>Hackers demonstrated 21 new vulnerabilities in attacks against browsers and operating systems during this year's Pwn2Own hacking contest. The complexity of the exploits, though, shows that hackers have to jump through many hoops to gain full system control.</p></article>]]></description>
+            <link>http://www.computerworld.com/article/3045973/security/pwn2own-contest-highlights-renewed-hacker-focus-on-kernel-issues.html</link>
+            <guid isPermaLink="false">18aeb959-f5b8-4fb8-8c85-ad329a1a392b</guid>
+            <pubDate>Sat, 19 Mar 2016 13:49:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The FBI Warns That Car Hacking Is a Real Risk]]></title>
-            <description><![CDATA[<article><h1>The FBI Warns That Car Hacking Is a Real Risk</h1><p>It's been eight months since a pair of security researchers proved beyond any doubt that car hacking is more than an action movie plot device when they remotely killed the transmission of a 2014 Jeep Cherokee as I drove it down a St. Louis highway.</p><img src="http://www.wired.com/wp-content/uploads/2015/07/IMG_0724-1200x630.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The FBI Warns That Car Hacking Is a Real Risk</h1><p>It's been eight months since a pair of security researchers proved beyond any doubt that car hacking is more than an action movie plot device when they remotely killed the transmission of a 2014 Jeep Cherokee as I drove it down a St. Louis highway.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/472653a242306e3b4c384f44dd684bec16785e8b.jpg"></article>]]></description>
             <link>http://www.wired.com/2016/03/fbi-warns-car-hacking-real-risk/</link>
             <guid isPermaLink="false">f8dc63e1-e137-4f4f-972f-fe442631fbd0</guid>
             <pubDate>Sat, 19 Mar 2016 13:43:37 GMT</pubDate>
