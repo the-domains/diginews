@@ -1,0 +1,14 @@
+layout_spectrum: 0.379181
+typography_spectrum: 0.4166922
+color:
+  saturation: 0.0749522
+  lightness: 0.004364623
+  brandStrength: 0.01235945
+  rhythmicContrast: 0.6862692
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Diginews
