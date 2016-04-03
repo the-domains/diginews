@@ -4,8 +4,15 @@
         <description><![CDATA[News]]></description>
         <link>https://thegrid.ai/diginews/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 13:53:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2016 03:50:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/diginews/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DHS: Over 300 incidents of ransomware on federal networks since June -- FCW]]></title>
+            <description><![CDATA[<article><h1>DHS: Over 300 incidents of ransomware on federal networks since June -- FCW</h1><p>Cybersecurity There have been 321 incident reports of "ransomware-related activity" affecting 29 different federal networks since June 2015, according to the Department of Homeland Security. The numbers indicate a form of malware that has done high-profile damage in the private sector is a threat to government computers as well.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/370d1a3aa0c2560e4f0fa164410e1833fb41caee.jpg"></article>]]></description>
+            <link>https://fcw.com/articles/2016/03/30/ransomware-carper-hsgac.aspx?m=1</link>
+            <guid isPermaLink="false">22a7d358-3ee4-4ddc-8eef-e07a39703447</guid>
+            <pubDate>Sun, 03 Apr 2016 03:49:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Microsoft killed its first sentient AI]]></title>
             <description><![CDATA[<article><h1>Microsoft killed its first sentient AI</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a822528c1e736320a89588d1a5fb7b03b824d602.jpg"></article>]]></description>
